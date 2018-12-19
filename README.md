@@ -16,8 +16,10 @@ This week Gareth showed us technology demos and applications in Javascript, I fi
 This week we had a peer review for Gareths module on Javascript applications, I have developed a very simple game in which the player can move all over the screen and there is an enemy which moves to the player position and the player can shoot the enemie and he will respawn. I want to expand on this or switch it up a little so it is for 2 players, I have lots of ideas for Javascript games but I don't have enough time, this will be one of the things I continue to do when I have the time. Mike had a lecture on ethics which interests me as I am always keen to see how different people view ethics and what is acceptable. Ed took us through more NES programming, I should start trying to have a game but I keep putting it off this is one of the things I am worst at doing!!! For our team game we have decided to go for a FPS set in the Wild West which will make use of some of the mechanics I prototyped, so we chucked some mechanics into a build together and begun development.
 
 ## Week 6 - Beginning 29th October
+This week is reading week, I did some of my dissertation, I find this very hard to do because my writing ability isn't very good and we have to read so many papers which is something I struggle to do as I get very tired reading lots of papers, I should get my eyes checked out to see if I need glasses. This week I don't think I touched NES or Javascript which is really bad of me, time managment of my modules is one of my biggest downfalls. This week I developed a proper gun system mechanic for our game which allows full control over all the variables we need for the weapons and makes it easy to add in more when we need to.
 
 ## Week 7 - Beginning 5th November
+
 
 ## Week 8 - Beginning 12th November
 
