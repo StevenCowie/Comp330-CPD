@@ -19,7 +19,7 @@ This week we had a peer review for Gareths module on Javascript applications, I 
 This week is reading week, I did some of my dissertation, I find this very hard to do because my writing ability isn't very good and we have to read so many papers which is something I struggle to do as I get very tired reading lots of papers, I should get my eyes checked out to see if I need glasses. This week I don't think I touched NES or Javascript which is really bad of me, time managment of my modules is one of my biggest downfalls. This week I developed a proper gun system mechanic for our game which allows full control over all the variables we need for the weapons and makes it easy to add in more when we need to.
 
 ## Week 7 - Beginning 5th November
-
+This week we had to present for our dissertations what we had found out so far, again as I mentioned in previous weeks I hate presentations as I get too nervous even though I am always well prepared, I forget what to say and talk too quickly. I didn't attend Ed's session on NES because I opted to go to the studio and work on his live code on 2 monitors as the extra monitor makes it so much easier to follow along with the code. Gareth gave us one of the most useful lectures he ever has and it was on how to make technical posters, he showed us all the things he expects us to have in it and the best cases we can use them in. Our team game has been making good progress as per usual, our team flow is the best I've ever been involved in and it is raising my morale and I am actually happy and look forward to working on our game this year.
 
 ## Week 8 - Beginning 12th November
 
