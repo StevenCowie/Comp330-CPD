@@ -41,7 +41,7 @@ This week was the last week before Christmas, I made a little bit of progress on
  
  ## Five key skills to improve 
  ## 1 - Time Managment
- ## 2 - 
- ## 3 - 
+ ## 2 - Sticking to my tasks
+ ## 3 - Knowing when to take a break
  ## 4 - 
  ## 5 - 
