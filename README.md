@@ -1,6 +1,7 @@
 # Comp330-CPD
 
 ## Week 1 - Beginning 24th September
+First week back at university and we are straight back into the action, we had a lecture with Ed on development for the NES, I found this really interesting to learn about the constraints and the old archetecture for such an old console. We had a lecture with Gareth who introduced us to what we'd be doing with him which was to make Java applications for a website we'd be creating, I have a few ideas for what I want to make. Java is so useful these days because it is so widely used for many aspects. My new team for making a game this year all met up and we talked about ideas and started prototyping, the ideas were a bit all over the place, we have to narrow them down. My biggest struggle this week was trying to understand the complexity of the NES constraints.
 
 ## Week 2 - Beginning 1st October
 
