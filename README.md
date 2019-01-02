@@ -44,4 +44,4 @@ This week was the last week before Christmas, I made a little bit of progress on
  ## 2 - Sticking to my tasks
  ## 3 - Knowing when to take a break
  ## 4 - Version Control
- ## 5 - 
+ ## 5 - Attendance
