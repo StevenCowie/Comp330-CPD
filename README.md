@@ -45,3 +45,51 @@ This week was the last week before Christmas, I made a little bit of progress on
  ## 3 - Knowing when to take a break
  ## 4 - Version Control
  ## 5 - Attendance
+ 
+ 
+ ## Week 1 - Beginning January 28th
+ First timetabled week of university this term introduced us to our new module, this term we have a research dissertation to complete, optimization and algorithms and a the team game with some side tasks to do. This week was very easy as we were just getting back into the swing of things, I just worked on the team game in studio time, better get started on my other tasks soon too or I'll fall behind. My biggest challenge this week was getting back into the swing of things.
+ 
+ ## Week 2 - Beginning 4th February
+ Second week back and my attendance has started to slip up big time already. We were supposed to have a dissertation lecture and professional practise lecture and optimisation lecture. I however only made it to the optimisation one, I am finding it hard to keep up with my university work at the moment and it'll start to show soon. I spent most of my time in studio this week doing my team game getting it up to scratch and working on little bugs that needed to be fixed. Should get started on other assignments ASAP.
+ 
+ ## Week 3 - Beginning 11th February
+ Third week back I made it to the professional practise lecture by Gareth and the optimisation lecture. The optimisation lecture we had to try and turn Gareths astroid game into a game that runs smoothly by optimistaing his C++ code. The professional practise lecutre Gareth walked us through the old third years promotional material to promote themselves. I took some inspiration from this and created my own LinkedIn profile and begun my journey into the social media for grown ups. In studio I spent most of my time on team game. Biggest struggle was making it into university.
+ 
+ ## Week 4 - Beginning 18th February
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
