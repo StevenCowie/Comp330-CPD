@@ -63,3 +63,12 @@ This week was the last week before Christmas, I made a little bit of progress on
  This week I made it to 0 lectures. Although I feel like some lectures are not needed I should still try my best to go to them for the fact I am paying to be here. This week I spent all my time working on the team game doing bug fixes and adding in small features that were required on the hack n plan. Biggest struggle this week was attendance and motivation to go to lectures.
  
  ## Week 6 - Beginning 4th March
+This week was reading week, so all my time was spent on team game, I really should start doing some work on my other assignments but my team are so focused on getting the game up to scratch. I should also work on my dissertation prototype artefact that is due in a few weeks. I just mainly did bug fixing which I find is a useful thing to learn how to do as it makes me relook through the code and learn what I did wrong and how I can do it better. Sitting with my fellow programmers in my team also helps as we can combine our knowledge and help each other out.
+
+## Week 7 - Beginning 11th March
+This week I begun working on my prototype artefact for my dissertation I managed to get the game I am going to test it with working and the arduino code required, however I haven't gotten it working in Unreal yet. Since it was show and tell this week the team really wanted the game to be of a good standard to show off, we tried our best to get all the required work done on the hack n plan. The team wanted us to get our 3rd gun in the game using the weapon system I had created so I helped them get it in there. Biggest challenge this week was Arduino, I hate the little things but it's what I need for my dissertation.
+
+## Week 8 - Beginning 18th March
+Since show and tell was done the whole team slowed progress on the game so much, it felt like most of them were basically done working on it, but us BsC's had lots of deadlines coming up soon. First deadline that was due was Gareth's market evaluation, this was a little bit of a struggle because we had to message industry professionals about their job and find jobs we'd be interested ourselves. This was the biggest struggle as I am not 100% sure what I want to do after university yet.
+
+## Week 9 - Beginning 25h March
