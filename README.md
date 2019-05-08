@@ -72,3 +72,5 @@ This week I begun working on my prototype artefact for my dissertation I managed
 Since show and tell was done the whole team slowed progress on the game so much, it felt like most of them were basically done working on it, but us BsC's had lots of deadlines coming up soon. First deadline that was due was Gareth's market evaluation, this was a little bit of a struggle because we had to message industry professionals about their job and find jobs we'd be interested ourselves. This was the biggest struggle as I am not 100% sure what I want to do after university yet.
 
 ## Week 9 - Beginning 25h March
+Market evaluation was due this week, I had only just emailed people about some questions I wanted to find out the answers to in the field I have decided I think I want to pursue. Once I had my answers from the professionals and found some jobs I'd be interested in I begun to write the report. It was 1500 words so it wasn't too hard to write. Again leaving things to the last minute and the breakdown of tasks have been a problem for me this week.
+
