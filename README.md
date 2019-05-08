@@ -54,42 +54,12 @@ This week was the last week before Christmas, I made a little bit of progress on
  Second week back and my attendance has started to slip up big time already. We were supposed to have a dissertation lecture and professional practise lecture and optimisation lecture. I however only made it to the optimisation one, I am finding it hard to keep up with my university work at the moment and it'll start to show soon. I spent most of my time in studio this week doing my team game getting it up to scratch and working on little bugs that needed to be fixed. Should get started on other assignments ASAP.
  
  ## Week 3 - Beginning 11th February
- Third week back I made it to the professional practise lecture by Gareth and the optimisation lecture. The optimisation lecture we had to try and turn Gareths astroid game into a game that runs smoothly by optimistaing his C++ code. The professional practise lecutre Gareth walked us through the old third years promotional material to promote themselves. I took some inspiration from this and created my own LinkedIn profile and begun my journey into the social media for grown ups. In studio I spent most of my time on team game. Biggest struggle was making it into university.
+ Third week back I made it to the professional practise lecture by Gareth and the optimisation lecture. The optimisation lecture we had to try and turn Gareths astroid game into a game that runs smoothly by optimistaing his C++ code. The professional practise lecutre Gareth walked us through the old third years promotional material to promote themselves. I took some inspiration from this and created my own LinkedIn profile and begun my journey into the social media for grown ups. In studio I spent most of my time on team game. This week research journal was due, this was an easy assignment as it was a few wiki pages. Biggest struggle was trying to remember how to use C++ properly, I should try and brush up on this as it's a very popular language.
  
  ## Week 4 - Beginning 18th February
+ This week the only lecture I made it to was Gareths optimisation lecture on GPU optimisations, this was useful as it gave us some idea of things we could start to tinker with for our own games. This week for the team game I tasked with making an objective compass as to where it'd point the right directions for the objectives. I managed to get the compass working but due to heavy maths involved I struggled to get it working with the objectives in the right way, in the end Phil helped me with this, this was my biggest struggle this week as I had looked online and couldn't find help anywhere.
  
+ ## Week 5 - Beginning 25th February
+ This week I made it to 0 lectures. Although I feel like some lectures are not needed I should still try my best to go to them for the fact I am paying to be here. This week I spent all my time working on the team game doing bug fixes and adding in small features that were required on the hack n plan. Biggest struggle this week was attendance and motivation to go to lectures.
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ ## Week 6 - Beginning 4th March
