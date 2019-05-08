@@ -74,3 +74,13 @@ Since show and tell was done the whole team slowed progress on the game so much,
 ## Week 9 - Beginning 25h March
 Market evaluation was due this week, I had only just emailed people about some questions I wanted to find out the answers to in the field I have decided I think I want to pursue. Once I had my answers from the professionals and found some jobs I'd be interested in I begun to write the report. It was 1500 words so it wasn't too hard to write. Again leaving things to the last minute and the breakdown of tasks have been a problem for me this week.
 
+## Week 10 - Beginning 1st April
+Optimisation was up next, I haven't really begun to feel any pressure for the assignments, I have just realised my time management is still something I need to work on big time and breaking down tasks into smaller chunks so I don't leave them all until the last minute. I managed to get a few optimisations done to our team game which I noticed a good improvement in FPS as well as rendering time and performance etc.
+
+## Week 11 - Beginning 8th April
+This week I tried to get my artefact working for my dissertation working, I spent all week trying to get it working but with no success. I should have asked for help with this earlier on when I started struggling and couldn't figure it out then.
+
+## Week 12 - Beginning 29th April
+This week the porting task was due. I left this until the last day but thankfully managed to get it working, this assignment was easier than expected considering I left most of it until the last day. I had previously tried to get it working in studio the week before however due to not having admin permission I couldn't accept the android license on the studio computers. I managed to get it done and was happy enough with my work considering it was the last day but time managment and breaking down tasks into smaller chunks have been my most common issue this term.
+
+
